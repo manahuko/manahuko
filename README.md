@@ -153,19 +153,3 @@
 <img src="https://komarev.com/ghpvc/?username=nima-dalir&label=Profile+Views&color=00FFFF&style=for-the-badge" alt="Profile Views" />
 
 </div>
-
----
-
-<details>
-<summary><b>🎨 تم رنگی نئونی استفاده شده (Neon Color Palette)</b></summary>
-
-| رنگ | Hex | کاربرد |
-|------|-----|--------|
-| **فیروزه‌ای نئونی** | `#00FFFF` | رنگ اصلی، هایلایت، متن |
-| **بنفش نئونی** | `#B03AFF` | رنگ ثانویه، اکسنت، بنفش سایبرپانک |
-| **بنفش عمیق** | `#8B5CF6` | بدج‌های<GameDev/AI> |
-| **سبز ماتریکس** | `#39FF14` | ترمینال، Bash، Vim، موفقیت |
-| **زرد نئونی** | `#FFFF00` | هشدار، HuggingFace، توجه |
-| **پیش‌زمینه تیره** | `#0D1117` | GitHub Dark Mode Compatible |
-
-</details>
