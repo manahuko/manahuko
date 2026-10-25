@@ -21,11 +21,8 @@
 - اجرا و فاین‌تیون **LLMهای آفلاین** (Ollama, Llama.cpp, LM Studio) روی سخت‌افزارهای معمولی
 - **هوش مصنوعی کاربردی**: ساخت ایجنت‌های محلی، RAG، اتوماسیون با n8n
 - **تولید محتوا**: آموزش‌های تکنولوژی، AI، و ابزارهای اوپن‌سورس در یوتیوب/تلگرام
-
-🎮 **علاقه‌های جانبی:**
-- **بازی‌سازی** (Godot / Unity) — منطق، پروسیجرال جنریت، سیستم‌های AI
+- **بازی‌سازی** (Unity) — منطق، پروسیجرال جنریت، سیستم‌های AI
 - **طراحی سه‌بعدی** (Blender) — مدل‌سازی Hard-surface، نورپردازی، رندر برایویدیوهای آموزشی
-- **سایبرپانک/تک‌نولوژی**: عاشق استتیک نئونی، ترمینال، و ابزارهای خط فرمان
 
 💡 **فلسفه:** «ابزارهای قدرتمند، آزاد، و آفلاین — برای همه»
 
@@ -42,8 +39,6 @@
 - Running & Fine-tuning **Offline LLMs** (Ollama, Llama.cpp, LM Studio) on consumer hardware
 - **Applied AI**: Local Agents, RAG, Automation with n8n
 - **Content Creation**: Tech/AI tutorials, Open-source tools on YouTube & Telegram
-
-🎮 **Side Passions:**
 - **Game Dev** (Godot / Unity) — Logic, Procedural Generation, AI Systems
 - **3D Design** (Blender) — Hard-surface Modeling, Lighting, Render for Edu Videos
 - **Cyberpunk/Tech Aesthetic**: Neon, Terminals, CLI-first workflows
@@ -71,7 +66,6 @@
 ### 🐧 Linux & Mobile
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0D1117&color=00FFFF&labelColor=0D1117)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&color=00FFFF&labelColor=0D1117)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&color=39FF14&labelColor=0D1117)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=00D4FF&labelColor=0D1117)
 
 ### 🔧 Dev & Tools
@@ -91,10 +85,7 @@
 | **[Termux-LLM-Toolkit](https://github.com/nima-dalir/termux-llm-toolkit)** | اسکریپت‌های آماده برای اجرا/مدیریت LLM محلی در Termux | Python, Bash, Ollama, Termux:API | 🟢 Active |
 | **[Offline-AI-Agent](https://github.com/nima-dalir/offline-ai-agent)** | ایجنت کاملاً آفلاین با Ollama + LangChain (بدون API Key) | Python, Ollama, LangChain, FastAPI | 🟢 Active |
 | **[Content-Auto](https://github.com/nima-dalir/content-auto)** | پایپ‌لاین اتوماسیون محتوا: اسکریپت → صدا → ویدیو (n8n + FFmpeg) | n8n, Python, FFmpeg, TTS | 🟡 WIP |
-| **[Neon-Game-Jam](https://github.com/nima-dalir/neon-game-jam)** | پروژه گیم‌جم: شوت‌ر پروسیجرال با استایل سایبرپانک | Godot, GDScript, Blender | 🟢 Released |
 | **[Blender-Assets](https://github.com/nima-dalir/blender-assets)** | کتابخانه مدل‌های 3D بهینه برای رندر سریع (Low-poly/PBR) | Blender, Python (Add-ons) | 🟢 Stable |
-
-> 📌 **نکته:** نام کاربری گیت‌هاب را با یوزرنیم واقعی خودتان جایگزین کنید (`nima-dalir` در مثال بالا).
 
 ---
 
@@ -140,7 +131,5 @@
 
 ### ⭐ اگر پروژه‌هام براتون مفید بودن، استار دادن یادت نره!
 ### ⭐ If you find my projects useful, consider giving a star!
-
-<img src="https://komarev.com/ghpvc/?username=nima-dalir&label=Profile+Views&color=00FFFF&style=for-the-badge" alt="Profile Views" />
 
 </div>
