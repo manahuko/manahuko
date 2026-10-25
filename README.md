@@ -136,15 +136,6 @@
 
 ---
 
-## 🤝 در حال جستجوی... / Looking For
-
-- 🤝 **Collaboration** در پروژه‌های **Offline AI / Local-First Tools**
-- 🎮 **Game Jam Teammates** (Programmer / Tech Artist)
-- 📝 **Content Co-creation** برای کانال‌های یوتیوب/تلگرام تکنولوژی
-- 💡 **Open Source Contribution** در اکوسیستم Ollama / Termux / Godot
-
----
-
 <div align="center">
 
 ### ⭐ اگر پروژه‌هام براتون مفید بودن، استار دادن یادت نره!
