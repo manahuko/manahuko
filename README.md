@@ -74,20 +74,11 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&color=39FF14&labelColor=0D1117)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=00D4FF&labelColor=0D1117)
 
-### 🎮 Game Dev & 3D
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white&color=8B5CF6&labelColor=0D1117)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&color=00FFFF&labelColor=0D1117)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&color=B03AFF&labelColor=0D1117)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&color=8B5CF6&labelColor=0D1117)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white&color=00FFFF&labelColor=0D1117)
-
 ### 🔧 Dev & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=B03AFF&labelColor=0D1117)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=00FFFF&labelColor=0D1117)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=8B5CF6&labelColor=0D1117)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white&color=39FF14&labelColor=0D1117)
-![OBS Studio](https://img.shields.io/badge/OBS_Studio-000000?style=for-the-badge&logo=obsstudio&logoColor=white&color=B03AFF&labelColor=0D1117)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-00A8E8?style=for-the-badge&logo=ffmpeg&logoColor=white&color=00FFFF&labelColor=0D1117)
 
 </div>
 
@@ -140,7 +131,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=00FFFF&labelColor=0D1117)](https://nima-dalir.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF&labelColor=0D1117)](https://linkedin.com/in/nima-dalir)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=B03AFF&labelColor=0D1117)](mailto:nima.dalir@example.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=8B5CF6&labelColor=0D1117)](https://discord.gg/your-server)
 
 </div>
 
