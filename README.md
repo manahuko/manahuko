@@ -156,7 +156,6 @@
 <a href="https://t.me/your-id"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://youtube.com/@your-channel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="mailto:alireza.bakhari@cs.ox.ac.uk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://orcid.org/0000-0000-0000-0000"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
 
 </div>
 
