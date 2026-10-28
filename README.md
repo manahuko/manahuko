@@ -57,51 +57,84 @@
 ---
 
 ## 🛠 تکنولوژی‌ها و ابزارها / Tech Stack
-
 <div align="center">
 
 ### 🐍 Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="Bash"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="40" alt="Go"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="SQL"/>
+</p>
 
 ### 🐧 Linux & Infrastructure
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="40" alt="Debian"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original.svg" height="40" alt="Proxmox"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="40" alt="Terraform"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" height="40" alt="Ansible"/>
+</p>
 
 ### 🌐 Networking & Security
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-E6522C?style=for-the-badge&logo=openvpn&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/wireshark.svg" height="40" alt="Wireshark" style="filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nmap.svg" height="40" alt="Nmap"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/burpsuite/burpsuite-original.svg" height="40" alt="Burp Suite"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/metasploit.svg" height="40" alt="Metasploit"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openvpn.svg" height="40" alt="OpenVPN"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/wireguard.svg" height="40" alt="WireGuard"/>
+</p>
 
 ### 🤖 AI & Automation
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg" height="40" alt="n8n"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ollama/ollama-original.svg" height="40" alt="Ollama"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/langchain.svg" height="40" alt="LangChain"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/huggingface/huggingface-original.svg" height="40" alt="HuggingFace"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
+</p>
 
 ### 🔧 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-326CE5?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![tmux](https://img.shields.io/badge/tmux-1BB0F5?style=for-the-badge&logo=tmux&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/githubactions.svg" height="40" alt="CI/CD"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="40" alt="Vim"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" height="40" alt="tmux"/>
+</p>
 
 </div>
-
 ---
 
 ## 🚀 پروژه‌های شاخص / Featured Projects
@@ -119,14 +152,21 @@
 ---
 
 ## 📚 کانال‌های آموزشی / Educational Channels
-
 <div align="center">
 
-**با همکارانم، محتوای آموزشی رایگان در حوزه AI و اتوماسیون تولید می‌کنیم:**
+با همکارانم، محتوای آموزشی رایگان در حوزه AI و اتوماسیون تولید می‌کنیم:
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@your-channel-name)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-channel-name)
+<p>
+  <a href="YOUR_YOUTUBE_LINK">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" height="40" alt="YouTube"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_TELEGRAM_LINK">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/telegram.svg" height="40" alt="Telegram" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(186deg) brightness(118%) contrast(119%);"/>
+  </a>
+</p>
 
+<br>
 **موضوعات پوشش داده شده:**
 - 🤖 **هوش مصنوعی آفلاین (Offline AI):** Ollama, Llama.cpp, Local LLMs, RAG
 - 🤖 **ایجنت‌های هوشمند:** LangChain, LangGraph, AutoGen, CrewAI (Self-hosted)
@@ -167,13 +207,17 @@
 
 ## 🌐 پورتفولیو و ارتباط / Portfolio & Contact
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alireza-bakhari.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-bakhari)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alireza-bakhari)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alireza.bakhari@cs.ox.ac.uk)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0000-0000-0000)
+<p>
+  <a href="YOUR_PORTFOLIO"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/portfolio.svg" height="32" alt="Portfolio"/></a>
+  &nbsp;
+  <a href="YOUR_LINKEDIN"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" height="32" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="YOUR_GITHUB"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" height="32" alt="GitHub"/></a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" height="32" alt="Email"/></a>
+  &nbsp;
+  <a href="YOUR_ORCID"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/orcid.svg" height="32" alt="ORCID"/></a>
+</p>
 
 </div>
 
